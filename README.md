@@ -5,7 +5,7 @@ Jam is a clean, responsive theme for [GitHub Pages](https://pages.github.com). T
 
 You can preview the theme at http://himasrafeek.github.io/jam-theme.
 
-![](http://himasrafeek.github.io/jam-theme/screenshot.png)
+![](http://himasrafeek.github.io/jam-theme/screenshot.PNG)
 
 # Customizations
 
@@ -20,5 +20,6 @@ This is a plain HTML template built with [Butter Cake Framework](https://getbutt
 
 This work is licensed under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license.
 
+[SUPPORT DEVELOPMENT](https://www.paypal.me/himasrafeek)
 
 Thank you! ✌
