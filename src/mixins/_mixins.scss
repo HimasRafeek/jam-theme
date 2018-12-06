@@ -1,0 +1,45 @@
+// MIXINS
+// ––––––––––––––––––––––––––––––––––––––––––––––––––
+
+
+// REGULAR BUTTON
+@mixin button($color, $textColor) {
+    border: 2px solid white !important;
+    color: $textColor !important;
+    background-color: $color !important;
+
+    &:focus,
+    &:active,
+    &:hover {
+        color: $textColor !important;
+        border-color: $color-white !important;
+        background-color: darken($color,10%) !important;
+    }
+
+    &.outline {
+        border-color: $color !important;
+        background-color: white !important;
+        color: $textColor !important;
+
+        &:focus,
+        &:active,
+        &:hover {
+            color: $textColor !important;
+            border-color: $color !important;
+            background-color: $color !important;
+        }
+    }
+}
+
+
+@mixin max-breakpoint($sm : 0) {
+    @media(max-width: $sm){
+        @content;
+    }
+}
+
+@mixin min-breakpoint($sm : 0) {
+    @media(min-width: $sm) {
+        @content;
+    }
+}
