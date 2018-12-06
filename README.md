@@ -1,4 +1,4 @@
-# jam-theme
+# Jam Theme
 A responsive theme for GitHub Pages and Documentations.
 
 Jam is a clean, responsive theme for [GitHub Pages](https://pages.github.com). This theme is available as an option if you use the [Automatic Page Generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator/) or you can copy the template and styles to use on your own.
@@ -20,6 +20,6 @@ This is a plain HTML template built with [Butter Cake Framework](https://getbutt
 
 This work is licensed under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license.
 
-[SUPPORT DEVELOPMENT](https://www.paypal.me/himasrafeek)
+[SUPPORT DEVELOPMENT](https://www.paypal.me/himasrafeek) 😊
 
 Thank you! ✌
