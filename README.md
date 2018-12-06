@@ -7,6 +7,12 @@ You can preview the theme at http://himasrafeek.github.io/jam-theme.
 
 ![](http://himasrafeek.github.io/jam-theme/screenshot.PNG)
 
+# Pages
+
+- [Home Page](http://himasrafeek.github.io/jam-theme)
+- [Docs Page](http://himasrafeek.github.io/jam-theme/docs.html)
+- [About Page](http://himasrafeek.github.io/jam-theme/about.html)
+
 # Customizations
 
 If you copy this theme for your own needs, feel free to customize the colors however you like. A couple of nice sources for gradient colors are http://uigradients.com
